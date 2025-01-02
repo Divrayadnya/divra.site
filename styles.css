@@ -113,7 +113,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #4682b4 ;
+  background-color: #0000cd ;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
